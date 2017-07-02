@@ -1,0 +1,19 @@
+{
+  "name": "veterinary_v2",
+  "version": "1.0.0",
+  "description": "Second version",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntonioKida/Veterinary_v2.git"
+  },
+  "author": "Antonio Kida",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntonioKida/Veterinary_v2/issues"
+  },
+  "homepage": "https://github.com/AntonioKida/Veterinary_v2#readme"
+}
